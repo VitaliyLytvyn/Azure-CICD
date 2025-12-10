@@ -1,0 +1,6 @@
+rgname                 = "dev-azure-cicd-rg"
+service_principal_name = "dev-azure-cicd-spn"
+keyvault_name          = "dev-azure-cicd-kv-101"
+SUB_ID                 = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+cluster_name           = "dev-azure-cicd-cluster"
+node_pool_name         = "devnp"

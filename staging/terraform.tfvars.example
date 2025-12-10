@@ -1,0 +1,6 @@
+rgname                 = "stage-azure-cicd-rg"
+service_principal_name = "stage-azure-cicd-spn"
+keyvault_name          = "stage-azure-cicd-kv-101"
+SUB_ID                 = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+node_pool_name         = "stagenp"
+cluster_name           = "stage-azure-cicd-cluster"
